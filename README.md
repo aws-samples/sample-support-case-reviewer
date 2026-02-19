@@ -4,6 +4,16 @@ An MCP server for reviewing support case content.
 
 サポートケースの内容をレビューするための MCP サーバーです。
 
+## Related Blog Post
+
+For a detailed walkthrough and background, see the builders.flash article:
+["伝わらない"を解消 ! 生成 AI で磨く AWS サポートケース起票スキル](https://aws.amazon.com/jp/builders-flash/202602/genai-support-case-issue-skills/)
+
+---
+
+詳しい使い方や背景については、builders.flash の記事をご覧ください：
+["伝わらない"を解消 ! 生成 AI で磨く AWS サポートケース起票スキル](https://aws.amazon.com/jp/builders-flash/202602/genai-support-case-issue-skills/)
+
 ## Prerequisites
 
 - Install `uv` from [Astral](https://docs.astral.sh/uv/getting-started/installation/) or the [GitHub README](https://github.com/astral-sh/uv#installation)
