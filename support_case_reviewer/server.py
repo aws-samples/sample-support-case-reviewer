@@ -3,6 +3,7 @@ from .guidelines_fetcher import GuidelinesFetcher
 
 mcp = MCPServer(
     "support-case-reviewer",
+    version="0.1.0",
     instructions="""このMCPサーバーはサポートケースのレビュー専用です。
 
 **必ずreview_support_caseツールを使用すべき場面:**
