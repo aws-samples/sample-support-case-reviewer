@@ -1,7 +1,7 @@
-from mcp.server.fastmcp import FastMCP
+from mcp.server.mcpserver import MCPServer
 from .guidelines_fetcher import GuidelinesFetcher
 
-mcp = FastMCP(
+mcp = MCPServer(
     "support-case-reviewer",
     instructions="""このMCPサーバーはサポートケースのレビュー専用です。
 
